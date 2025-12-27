@@ -51,7 +51,6 @@ ol {
 
 
 
-
 ol li {
   margin: 1.5rem 0;
   
@@ -313,7 +312,7 @@ tr {
   object-fit: cover;
 }
 .hero {
-  background-image: url("image.jpg");
+ 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
